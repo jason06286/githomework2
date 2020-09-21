@@ -1,3 +1,4 @@
+console.log('功能一')
 function multiplication(params) {
     
     for (let i = 3; i < 16; i++) {
